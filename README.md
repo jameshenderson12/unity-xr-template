@@ -1,2 +1,2 @@
 # unity-xr-template
-This is a project template for a Unity XR project based on Google Cardboard.
+This is a starting point template for a Unity XR project based on Google Cardboard.
